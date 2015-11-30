@@ -1,6 +1,8 @@
-Daily Tech News
+Today I learned
 ===
 
-Joanna's personal tech news notes.
+Today I learned #TIL for short.
+
+Joanna's personal daily tech news notes.
 
 Focus on front end technology and user experience for now.
