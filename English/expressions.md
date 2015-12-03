@@ -1,15 +1,19 @@
 # English Expressions Collection
 
-## 151130
+## words
 
-CCTV - China Central Television.
+- CCTV - China Central Television.
 
-Follow the CCTV post, the debate picked up steam.
+- matchmaking site.
 
-..., where moms of all ages and situations gather to share their story and concerns.
+> From: *Unwed and undefended* From *THE WORLD OF CHINESE* 06/2015
 
-With the ..., change is very much in the air.
+## expressions
 
-matchmaking site.
+- Follow the CCTV post, the debate picked up steam.
+
+- ..., where moms of all ages and situations gather to share their story and concerns.
+
+- With the ..., change is very much in the air.
 
 > From: *Unwed and undefended* From *THE WORLD OF CHINESE* 06/2015
