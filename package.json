@@ -1,0 +1,22 @@
+{
+  "name": "today-i-learned",
+  "version": "1.0.0",
+  "description": "Today I learned ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wileam/today-i-learned.git"
+  },
+  "author": "Joanna Wu <joanna_wu@live.com> (wumengyuan.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wileam/today-i-learned/issues"
+  },
+  "homepage": "https://github.com/wileam/today-i-learned#readme",
+  "devDependencies": {
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
