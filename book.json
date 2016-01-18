@@ -1,5 +1,11 @@
 {
   "title": "Today I learned",
+  "plugins": ["ga"],
+  "pluginsConfig": {
+    "ga": {
+      "token": "UA-37411784-1"
+    }
+  },
   "links": {
     "gitbook": false,
     "sharing": {
