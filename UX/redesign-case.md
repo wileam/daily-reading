@@ -18,4 +18,4 @@
 
 - [Redesigning Twitter Moments](https://medium.com/swlh/redesigning-twitter-moments-f71658bbde68)
 
--[Redesigning Wealthfront](https://medium.com/@Soengle/redesigning-wealthfront-46788da03265)
+- [Redesigning Wealthfront](https://medium.com/@Soengle/redesigning-wealthfront-46788da03265)
