@@ -4,4 +4,16 @@ It shows us nothing more or less than the deepest, most desperate desire of our 
 
 It does not do to dwell on dreams and forget to live, remember that.
 
---Professor Dumbledore
+> By Professor Dumbledore, From *Harry Potter and the Philosopher's Stone*
+
+If we now have unlimited access to culture and entertainment from any location, why are we still willing to live bound by the original deal?
+
+The new luxury is to shed the shackles of deferred living -- to pursue your passion now, while you are still working.
+
+Your life no longer needs to divided into arbitrary phrases of work and retirement.
+
+You don't need to be extraordinarily lucky or hand working to make your work life fit with your passions -- if you're free to pick where to work and when to work.
+
+The new luxury is the luxury of freedom and time.
+
+> From *[Remote - Office Not Required](http://book.douban.com/subject/21362627/)*

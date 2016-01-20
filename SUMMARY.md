@@ -14,4 +14,5 @@
     * [Tools](UX/tools.md)
 * [English](English/index.md)
     * [quotes](English/quotes.md)
+        * [The Defining Decade](English/quotes/the_defining_decade.md)
     * [expressions](English/expressions.md)

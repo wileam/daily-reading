@@ -6,7 +6,7 @@
 
 - matchmaking site.
 
-> From: *Unwed and undefended* From *THE WORLD OF CHINESE* 06/2015
+From: *Unwed and undefended* From *THE WORLD OF CHINESE* 06/2015
 
 ## expressions
 
@@ -16,4 +16,7 @@
 
 - With the ..., change is very much in the air.
 
-> From: *Unwed and undefended* From *THE WORLD OF CHINESE* 06/2015
+From: *Unwed and undefended* From *THE WORLD OF CHINESE* 06/2015
+
+- I had long considered him my model as a writer.
+From: *Introduction* - *On Writing Well*
