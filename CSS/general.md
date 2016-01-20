@@ -1,6 +1,6 @@
 # CSS General
 
-## New Feature
+## New Features
 
 - [Variables: The Backbone Of CSS Architecture](https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/)
 
