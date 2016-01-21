@@ -22,3 +22,5 @@
 - Guide by css trick: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 - Learn flex while playing the game: [Flexbox Froggy](http://flexboxfroggy.com/)
+
+- [Flexbox Playground on Codepen](http://codepen.io/enxaneta/full/adLPwv/)
