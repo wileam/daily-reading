@@ -6,6 +6,10 @@
 
 - [An Introduction to CSS’s @supports Rule](http://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/)
 
+## Animation
+
+- [Moving along a curved path in CSS with layered animation](http://tobiasahlin.com/blog/curved-path-animations-in-css/)
+
 ## Layout
 
 - [learn layout](http://learnlayout.com/)
