@@ -10,6 +10,18 @@
 
 - [Moving along a curved path in CSS with layered animation](http://tobiasahlin.com/blog/curved-path-animations-in-css/)
 
+- [Web Animation Trends](https://ihatetomatoes.net/web-animation-trends/)
+
+> A quick overview:
+> - 100% use CSS animations in some way
+> - 94% use JS animations more than CSS animations
+> - 77% use jQuery
+> - 68% use GreenSock as their animation platform
+> - 67% trigger animations as you scroll down
+> - 61% use video for background and effects
+> - 39% use audio for background and effects
+> - 32% use HTMl5 Canvas for creative effects
+
 ## Layout
 
 - [learn layout](http://learnlayout.com/)

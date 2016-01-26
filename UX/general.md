@@ -10,6 +10,8 @@
 
 > The practice from basecamp team on how do they choose which level of mockup is appropriate for each project.
 
+- [The Future Is Near: 13 Design Predictions for 2017](https://medium.com/@ChaseBuckleyUX/the-future-is-near-13-design-predictions-for-2017-654761f12c45)
+
 ## Year In Review
 
 - Collection: [2015 Year In Review Collection](http://yearinreview.co/)
