@@ -1,3 +1,11 @@
+# The defining decade
+
+> The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now 
+
+> By Meg Jay 
+
+> [Book](http://www.goodreads.com/book/show/13523061-the-defining-decade) / [Ted Talk: Why 30 is not the new 20](https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20)
+
 ## WORK
 
 We think that by avoiding decisions now, we keep all of our options open for later—but not making choices is a choice all the same.
@@ -141,4 +149,4 @@ There are things that just are what they are. The smartest thing to do is know a
 
 There is no formula for a good life, and there is no right or wrong life. But there are choices and consequences, so it seems only fair that twentysomethings know about the ones that lie ahead.
 
-The future isn’t written in the stars. There are no guarantees. So claim your adulthood. Be intentional. Get to work. Pick your family. Do the math. Make your own certainty. Don’t be defined by what you didn’t know or didn’t do. You are deciding your life right 
+The future isn’t written in the stars. There are no guarantees. So claim your adulthood. Be intentional. Get to work. Pick your family. Do the math. Make your own certainty. Don’t be defined by what you didn’t know or didn’t do. You are deciding your life right now.
