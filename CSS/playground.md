@@ -1,7 +1,11 @@
 # Playground
 
+## Inspiration
+
 - [Cinema Seat Preview Experiment](http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/)
 > Really Awesome
+
+- [CSS Game](http://victordarras.fr/cssgame/)
 
 ## Drawing
 
