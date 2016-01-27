@@ -3,9 +3,10 @@
 ## Inspiration
 
 - [Cinema Seat Preview Experiment](http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/)
-> Really Awesome
+> An experimental demo where a 3D perspective preview is shown for a selected seat in a cinema room.
 
 - [CSS Game](http://victordarras.fr/cssgame/)
+> a simple game using only CSS & HTML.
 
 ## Drawing
 
