@@ -2,9 +2,11 @@
 
 ## General
 
-- [Designing for Various UI States](https://medium.com/@_mikehlee/designing-for-various-states-823816e49c8d)
+- [Expressing Brand in Material](https://design.google.com/articles/expressing-brand-in-material/)
+> A step-by-step guide to staying on brand while going material.
 
-> Design for states such as empty / loading / error / success states in advance.
+- [Designing for Various UI States](https://medium.com/@_mikehlee/designing-for-various-states-823816e49c8d)
+> Design for states such as empty / loading / error / success states.
 
 - [The Fidelity Curve: How to weigh the costs and benefits of creating UI mockups](https://m.signalvnoise.com/the-fidelity-curve-weighing-the-costs-and-benefits-of-interface-design-mockups-b259634807e2)
 
