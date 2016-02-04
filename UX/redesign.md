@@ -25,3 +25,6 @@
 ## Logo
 
 - [bing](http://whatpixel.com/microsoft-bing-new-logo-2016)
+
+- [Uber Brand Guide](https://brand.uber.com/)
+> althought considered as bad design by most people, we can see the thought behind the new logo and how hard-working uber was.
