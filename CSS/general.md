@@ -11,7 +11,6 @@
 - [Moving along a curved path in CSS with layered animation](http://tobiasahlin.com/blog/curved-path-animations-in-css/)
 
 - [Web Animation Trends](https://ihatetomatoes.net/web-animation-trends/)
-
 > A quick overview:
 > - 100% use CSS animations in some way
 > - 94% use JS animations more than CSS animations
@@ -25,7 +24,12 @@
 ## Layout
 
 - [learn layout](http://learnlayout.com/)
-> best tutorial about css layout.
+> This site teaches the CSS fundamentals that are used in any website's layout.
+
+- [learn css layout - the pedantic way](http://book.mixu.net/css/)
+> CSS, like the Matrix, is a system based on rules.
+>
+> I wrote this set of chapters to describe those rules. It's long-form writing, but not book-length. I don't think I'd want to write a full book about CSS, but writing about CSS layout has been useful.
 
 ## Typography
 
