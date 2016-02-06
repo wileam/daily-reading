@@ -1,5 +1,7 @@
 # Summary
 
+* [Computer Science](CS/index.md)
+    * [Unix](CS/unix.md)
 * [Frontend](Frontend/index.md)
     * [General](Frontend/general.md)
     * [Accessibility](Frontend/a11y.md)
@@ -14,6 +16,12 @@
     * [Redesign](UX/redesign.md)
     * [Tools](UX/tools.md)
 * [English](English/index.md)
-    * [quotes](English/quotes.md)
+    * [Collocations](English/collocations.md)
+    * [Quotes](English/quotes.md)
         * [The Defining Decade](English/quotes/the_defining_decade.md)
-    * [expressions](English/expressions.md)
+    * [Topics](English/topics/index.md)
+        * [people](English/topics/people.md)
+        * [career](English/topics/career.md)
+        * [event](English/topics/event.md)
+        * [hometown](English/topics/hometown.md)
+    * [Miscellaneous](English/miscellaneous.md)
