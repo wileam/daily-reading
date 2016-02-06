@@ -17,7 +17,7 @@
 - [GQ Redesign: Embrace the content](https://medium.com/product-design-ux-ui/web-design-101-embrace-the-content-or-how-to-design-better-content-rich-websites-31a9665457fc#.4p9f0hadj)
 
 - [Redpad](https://medium.com/@tylergalpin/a-new-radpad-90ea4a812312)
-> Redesign the logo / color scheme / website, the design approach in the article worth reading.
+> Redesign the logo / color scheme / website, the design approach in the article is worth reading.
 
 
 ## App / Mobile
