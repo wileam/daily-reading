@@ -15,6 +15,7 @@
     * [Design Patterns](UX/patterns.md)
     * [Redesign](UX/redesign.md)
     * [Tools](UX/tools.md)
+* [Miscellaneous](miscellaneous.md)
 * [English](English/index.md)
     * [Collocations](English/collocations.md)
     * [Quotes](English/quotes.md)
