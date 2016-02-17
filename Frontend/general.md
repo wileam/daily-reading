@@ -18,4 +18,4 @@
 
 - Book: [Web前端黑客技术揭秘](http://book.douban.com/subject/20451827/)
 
-- Wiki: [Cross-site Scripting (XSS) - owasp](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
+- Wiki: [Cross-site Scripting (XSS) - owasp](https://www.owasp.org/index.php/Cross-site_scripting)

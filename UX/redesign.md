@@ -32,3 +32,5 @@
 
 - [Uber Brand Guide](https://brand.uber.com/)
 > althought considered as bad design by most people, we can see the thought behind the new logo and how hard-working uber was.
+
+> [Uber's atomic meltdown](http://www.elischiff.com/blog/2016/2/16/ubers-atomic-meltdown)
