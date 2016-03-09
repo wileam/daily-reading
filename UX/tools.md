@@ -16,9 +16,6 @@
 - [colourlovers](http://www.colourlovers.com/)
 > COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love.
 
-- [dribbble colors](https://dribbble.com/colors/)
-> find websites by it's main color
-
 ### inspiration
 
 - [nipponcolors](http://nipponcolors.com/)
@@ -29,6 +26,9 @@
 
 - [colours](http://colours.neilorangepeel.com/)
 > A list of colour names in CSS
+
+- [dribbble colors](https://dribbble.com/colors/)
+> find websites by it's main color
 
 ### article
 
