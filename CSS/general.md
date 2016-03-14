@@ -2,6 +2,8 @@
 
 ## New Features
 
+- Loading CSS: [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/), [Control CSS loading with custom properties](https://jakearchibald.com/2016/css-loading-with-custom-props/?)
+
 - [Variables: The Backbone Of CSS Architecture](https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/)
 
 - [An Introduction to CSS’s @supports Rule](http://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/)
@@ -41,6 +43,8 @@
 - Opinion: [Control Your Type: Google Fonts + Chrome = trouble?](https://m.signalvnoise.com/control-your-type-google-fonts-chrome-trouble-c21e1a106436#.4i827a73f)
 > Author received some bug reports about their new google fonts, and turns out these problems were caused by local fonts(local('..')). So he suggests that avoid using local(), use remote source host by your own instead.
 > However, I do not agree with it. = = I think local() is nice approach (also has a better performance) and these problems should be solved by properly settings on user's computer.
+
+-
 
 ## Flexbox
 

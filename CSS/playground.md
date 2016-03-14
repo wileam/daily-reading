@@ -8,6 +8,9 @@
 - [CSS Game](http://victordarras.fr/cssgame/)
 > a simple game using only CSS & HTML.
 
+- [Imperfect Buttons](http://codepen.io/tmrDevelops/pen/VeRvKX)
+> Creative way to create borders
+
 ## Drawing
 
 - Collection: [a single div](http://a.singlediv.com/)
