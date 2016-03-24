@@ -23,6 +23,8 @@
 
 ## Team members
 
-- [giphy team](http://giphy.com/team)
+- [gif/cartoon - giphy team](http://giphy.com/team)
 
 - [arsthanea team](http://www.arsthanea.com/about-us/)
+
+- [cursor - teambition](https://www.teambition.com/info/team)
