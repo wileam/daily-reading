@@ -25,8 +25,6 @@
 
 - [teambition - team](https://www.teambition.com/info/team)
 
-- []
-
 ## Tricks
 
 - [22 Essential CSS Recipes](http://ipestov.com/22-essential-css-recipes/)

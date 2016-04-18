@@ -40,11 +40,13 @@
 - Tools: [Fontreach](http://www.fontreach.com/)
 > FontReach scans the top million sites to show font usage across the web
 
+- Collection: [Font in use](http://fontsinuse.com/)
+
 - Opinion: [Control Your Type: Google Fonts + Chrome = trouble?](https://m.signalvnoise.com/control-your-type-google-fonts-chrome-trouble-c21e1a106436#.4i827a73f)
 > Author received some bug reports about their new google fonts, and turns out these problems were caused by local fonts(local('..')). So he suggests that avoid using local(), use remote source host by your own instead.
 > However, I do not agree with it. = = I think local() is nice approach (also has a better performance) and these problems should be solved by properly settings on user's computer.
 
--
+- [New font: Charlie Rose](http://fontsinuse.com/uses/12506/charlie-rose)
 
 ## Flexbox
 
